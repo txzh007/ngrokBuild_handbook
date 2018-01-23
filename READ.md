@@ -17,6 +17,8 @@
 >- ngrok克隆地址：https://github.com/inconshreveable/ngrok.git
 >- 准备映射的域名：ngrok.tanxin.tech
 
+# 配置过程
+
 ### 安装git
 
 1. 安装git，我安装的是2.6版本，防止会出现另一个错误，安装git所需要的依赖包
