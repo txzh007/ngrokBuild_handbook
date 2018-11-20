@@ -42,7 +42,7 @@
 
 1. 下载go的软件包
   
-    wget https://www.kernel.org/pub/software/scm/git/git-2.6.0.tar.gz
+    wget https://studygolang.com/dl/golang/go1.4.2.linux-amd64.tar.gz
   
 ##### 解压出来可以随便指定位置
 
