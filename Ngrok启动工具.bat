@@ -19,8 +19,8 @@ Echo.
 echo.
 echo.
 :TUNNEL
-Echo               输入需要启动的域名前缀，如“aa” ，即穿透域名为：“aa.ngrok.tanxin.tech”
-Echo               端口Nginx已代理8888 ,现默认为80  即访问网址为 http://aa.ngrok.tanxin.tech
+Echo               输入需要启动的域名前缀，如“aa” ，即穿透域名为：“aa.ngrok.tanxin.link”
+Echo               端口Nginx已代理8888 ,现默认为80  即访问网址为 http://aa.ngrok.tanxin.link
 ECHO.
 ECHO.
 set /p clientid=   请输入需映射前缀：
