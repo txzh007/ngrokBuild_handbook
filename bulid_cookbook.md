@@ -7,15 +7,15 @@
 ## 域名
 
 >将一个域名或二级域名泛解析到VPS服务器上。
->例如将*.ngrok.tanxin.tech解析到VPS的IP。
->要注意，此时还需要将ngrok.tanxin.tech的A记录设置为VPS的IP。
+>例如将*.ngrok.tanxin.link解析到VPS的IP。
+>要注意，此时还需要将ngrok.tanxin.link的A记录设置为VPS的IP。
 ### 软件下载地址：
 
 >- go的下载地址：http://www.golangtc.com/download
 >- git的下载地址：http://git-scm.com/downloads 
 >- 绝对下载地址：https://www.kernel.org/pub/software/scm/git/git-2.6.0.tar.gz
 >- ngrok克隆地址：https://github.com/inconshreveable/ngrok.git
->- 准备映射的域名：ngrok.tanxin.tech
+>- 准备映射的域名：ngrok.tanxin.link
 
 # 配置过程
 
